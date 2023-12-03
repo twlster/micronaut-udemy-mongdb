@@ -37,4 +37,8 @@
 
 - [https://projectlombok.org/features/all](https://projectlombok.org/features/all)
 
+## Local Mongo DB
 
+`docker run --name my-mongo -p 27017:27017 -d mongo:4.4`
+
+https://hub.docker.com/_/mongo
